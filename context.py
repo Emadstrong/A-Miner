@@ -15,9 +15,3 @@ clean_jobs = None
 sub_details = None
 extranonce1 = None
 extranonce2_size = None
-
-# =====================================
-# Programmer : ALPHA
-# Website : https://alpha0.yolasite.com
-# Email : ALPHA.MAIN.OFFICIAL@GMAIL.COM
-# =====================================
