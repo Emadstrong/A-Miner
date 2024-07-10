@@ -1,4 +1,5 @@
+#!/bin/bash
 while :
 do
-    python3 SoloMinerV2.py
+    python3 A-Miner.py
 done
